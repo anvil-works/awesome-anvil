@@ -10,6 +10,11 @@ This is a collection of resources created by the Anvil community. Including awes
 - [Reference Docs](https://anvil.works/docs/overview)
 - [Forums](https://anvil.works/forum/)
 
+## Libraries
+
+- [Anvil Extras](https://github.com/anvilistas/anvil-extras)
+- [Anvil ORM](https://github.com/anvilistas/anvil-orm)
+
 ## Tutorials
 
 ### Articles
