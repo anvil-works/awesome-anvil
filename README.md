@@ -1,7 +1,7 @@
 # Awesome Anvil
 [Anvil](https://anvil.works/) is a platform for building full-stack web apps with nothing but Python. No need to wrestle with JS, HTML, CSS, SQL and all their frameworks – just build it all in Python.
 
-This is a collection of resources created by the Anvil community. Including awesome projects, demos, blogs and tutorials.
+This is a collection of resources created by the Anvil community, including awesome projects, demos, blogs and tutorials.
 
 ## About Anvil
 
