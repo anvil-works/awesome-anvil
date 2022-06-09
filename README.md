@@ -26,7 +26,7 @@ This is a collection of **resources created by the Anvil community**, including 
 - [Twitter Analytics Dashboard](https://bas.codes/posts/python-anvil-twitter-stats)
 - [Fake News Creator Using Fast.ai](https://robertritz.com/deploy-a-fake-news-generator-to-the-web-with-anvil-a46611730a09)
 
-### Videos
+### Video
 - [Build a Custom Google Map Web App with Anvil](https://youtu.be/uBF5ewOcPQE)
 - [Build an Anvil web app and deploy it to a Raspberry Pi](https://youtu.be/2B7tWrW5XkA)
 - [Build a Deep Q&A Web App with Transformers and Anvil | Python Deep Learning App](https://youtu.be/G1uGSkANZjQ)
