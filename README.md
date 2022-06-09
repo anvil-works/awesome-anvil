@@ -1,14 +1,16 @@
 # Awesome Anvil
 [Anvil](https://anvil.works/) is a platform for building full-stack web apps with nothing but Python. No need to wrestle with JS, HTML, CSS, SQL and all their frameworks – just build it all in Python.
 
-This is a collection of resources created by the Anvil community, including awesome projects, demos, blogs and tutorials.
+This is a collection of **resources created by the Anvil community**, including awesome projects, demos, blogs and tutorials.
 
 ## About Anvil
 
 - [Anvil's Website](https://anvil.works/)
-- [Anvil Tutorials](https://anvil.works/learn/tutorials)
+- [Anvil's Own Tutorials](https://anvil.works/learn/tutorials)
 - [Reference Docs](https://anvil.works/docs/overview)
 - [Forums](https://anvil.works/forum/)
+
+# Community Resources
 
 ## Libraries
 
@@ -17,7 +19,7 @@ This is a collection of resources created by the Anvil community, including awes
 
 ## Tutorials
 
-### Articles
+### Written
 - [Temperature Logger with a Raspberry Pi 3, an Enviro pHAT and Anvil](https://www.electromaker.io/tutorial/blog/introduction-to-anvil-a-tool-to-create-a-web-interface-for-any-python-project)
 - [Towards Data Science - An Introduction to Anvil](https://towardsdatascience.com/an-introduction-to-anvil-full-stack-web-apps-with-nothing-by-python-cbab06392d13)
 - [House Price Prediction App - Machine Learning](https://medium.datadriveninvestor.com/create-your-own-machine-learning-app-with-anvil-basic-6bf3503e80f1)
