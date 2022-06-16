@@ -3,6 +3,8 @@
 
 This is a collection of **resources created by the Anvil community**, including awesome projects, demos, blogs and tutorials.
 
+### *If you'd like to contribute to this page, simply create a PR!*
+
 ## About Anvil
 
 - [Anvil's Website](https://anvil.works/)
