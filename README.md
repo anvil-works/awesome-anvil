@@ -17,6 +17,12 @@ This is a collection of **resources created by the Anvil community**, including 
 - [Anvil Extras](https://github.com/anvilistas/anvil-extras)
 - [Anvil ORM](https://github.com/anvilistas/anvil-orm)
 
+## Social Media Communities
+- [Reddit](https://www.reddit.com/r/AnvilWorks/)
+- [Discord](https://discord.gg/Q73xerY6)
+- [LinkedIn Group](https://www.linkedin.com/groups/12677156/)
+- [Twitter](https://twitter.com/i/communities/1529413384415977472)
+
 ## Tutorials
 
 ### Written
