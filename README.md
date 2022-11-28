@@ -33,6 +33,8 @@ This is a collection of **resources created by the Anvil community**, including 
 - [House Price Prediction App - Machine Learning](https://medium.datadriveninvestor.com/create-your-own-machine-learning-app-with-anvil-basic-6bf3503e80f1)
 - [Twitter Analytics Dashboard](https://bas.codes/posts/python-anvil-twitter-stats)
 - [Fake News Creator Using Fast.ai](https://robertritz.com/deploy-a-fake-news-generator-to-the-web-with-anvil-a46611730a09)
+- [Learn the Python Anvil Framework by Nick Antonaccio](https://pythonanvil.com/)
+- [Create a Text Generation Web App with 100% Python - Udemy course](https://www.udemy.com/course/nlp-text-generation-python-web-app/)
 
 ### Video
 - [Build a Custom Google Map Web App with Anvil](https://youtu.be/uBF5ewOcPQE)
@@ -45,6 +47,10 @@ This is a collection of **resources created by the Anvil community**, including 
 - [Build a Poem Submission Web App](https://youtu.be/E8AXVoiQtkw)
 - [Anvil Uplink Tutorial](https://youtu.be/ebliOT-_ZEY)
 
+## Cool Projects
+
+- [Anvil Extras](https://github.com/anvilistas/anvil-extras) - A library of utilities and components for use in developing an Anvil application.
+- [Anvil Labs](https://github.com/anvilistas/anvil-labs/) - A library for testing ideas for inclusion in Anvil Extras.
 
 
 
