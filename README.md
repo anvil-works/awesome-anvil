@@ -18,6 +18,8 @@ This is a collection of **resources created by the Anvil community**, including 
 
 - [Anvil Extras](https://github.com/anvilistas/anvil-extras)
 - [Anvil ORM](https://github.com/anvilistas/anvil-orm)
+- [Tabulator](https://github.com/s-cork/Tabulator)
+- [pyDALAnvilWorks](https://github.com/benlawraus/pyDALAnvilWorks)
 
 ## Social Media Communities
 - [Reddit](https://www.reddit.com/r/AnvilWorks/)
@@ -47,10 +49,14 @@ This is a collection of **resources created by the Anvil community**, including 
 - [Build a Poem Submission Web App](https://youtu.be/E8AXVoiQtkw)
 - [Anvil Uplink Tutorial](https://youtu.be/ebliOT-_ZEY)
 
+### Courses
+- [Talk Python Anvil course](https://training.talkpython.fm/courses/explore_anvil/anvil-web-apps-with-just-python) (free)
+
 ## Cool Projects
 
 - [Anvil Extras](https://github.com/anvilistas/anvil-extras) - A library of utilities and components for use in developing an Anvil application.
 - [Anvil Labs](https://github.com/anvilistas/anvil-labs/) - A library for testing ideas for inclusion in Anvil Extras.
+- [OpenQuestion](https://github.com/Alcampopiano/OpenQuestion)
 
 
 
