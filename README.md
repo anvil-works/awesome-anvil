@@ -51,6 +51,4 @@ This is a collection of **resources created by the Anvil community**, including 
 
 - [Anvil Extras](https://github.com/anvilistas/anvil-extras) - A library of utilities and components for use in developing an Anvil application.
 - [Anvil Labs](https://github.com/anvilistas/anvil-labs/) - A library for testing ideas for inclusion in Anvil Extras.
-
-
-
+- [Amoni](https://github.com/anvilistas/amoni/) - A command line tool to assist with local development of Anvil apps.
