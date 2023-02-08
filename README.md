@@ -14,12 +14,14 @@ This is a collection of **resources created by the Anvil community**, including 
 
 # Community Resources
 
-## Libraries
-
-- [Anvil Extras](https://github.com/anvilistas/anvil-extras)
+## Libraries, add-ons and cool projects
+- [Anvil Extras](https://github.com/anvilistas/anvil-extras) - A library of utilities and components for use in developing an Anvil application.
+- [Anvil Labs](https://github.com/anvilistas/anvil-labs/) - A library for testing ideas for inclusion in Anvil Extras.
+- [Amoni](https://github.com/anvilistas/amoni/) - A command line tool to assist with local development of Anvil apps.
 - [Anvil ORM](https://github.com/anvilistas/anvil-orm)
 - [Tabulator](https://github.com/s-cork/Tabulator)
 - [pyDALAnvilWorks](https://github.com/benlawraus/pyDALAnvilWorks)
+- [OpenQuestion](https://github.com/Alcampopiano/OpenQuestion)
 
 ## Social Media Communities
 - [Reddit](https://www.reddit.com/r/AnvilWorks/)
@@ -51,12 +53,4 @@ This is a collection of **resources created by the Anvil community**, including 
 
 ### Courses
 - [Talk Python Anvil course](https://training.talkpython.fm/courses/explore_anvil/anvil-web-apps-with-just-python) (free)
-
-## Cool Projects
-
-- [Anvil Extras](https://github.com/anvilistas/anvil-extras) - A library of utilities and components for use in developing an Anvil application.
-- [Anvil Labs](https://github.com/anvilistas/anvil-labs/) - A library for testing ideas for inclusion in Anvil Extras.
-- [OpenQuestion](https://github.com/Alcampopiano/OpenQuestion)
-
-
 
