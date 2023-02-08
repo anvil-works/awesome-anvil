@@ -17,7 +17,7 @@ This is a collection of **resources created by the Anvil community**, including 
 ## Libraries
 
 - [Anvil Extras](https://github.com/anvilistas/anvil-extras)
-- [Anvil ORM](https://github.com/anvilistas/anvil-orm)
+- [Anvil Labs](https://github.com/anvilistas/anvil-labs)
 
 ## Social Media Communities
 - [Reddit](https://www.reddit.com/r/AnvilWorks/)
