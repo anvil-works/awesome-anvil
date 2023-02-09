@@ -39,6 +39,7 @@ This is a collection of **resources created by the Anvil community**, including 
 - [Fake News Creator Using Fast.ai](https://robertritz.com/deploy-a-fake-news-generator-to-the-web-with-anvil-a46611730a09)
 - [Learn the Python Anvil Framework by Nick Antonaccio](https://pythonanvil.com/)
 - [Create a Text Generation Web App with 100% Python - Udemy course](https://www.udemy.com/course/nlp-text-generation-python-web-app/)
+- [Build a Raspberry Pi Pico W Web App with Anvil](https://www.tomshardware.com/how-to/build-raspberry-pi-pico-w-web-app)
 
 ### Video
 - [Build a Custom Google Map Web App with Anvil](https://youtu.be/uBF5ewOcPQE)
