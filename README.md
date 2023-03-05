@@ -18,10 +18,10 @@ This is a collection of **resources created by the Anvil community**, including 
 - [Anvil Extras](https://github.com/anvilistas/anvil-extras) - A library of utilities and components for use in developing an Anvil application.
 - [Anvil Labs](https://github.com/anvilistas/anvil-labs/) - A library for testing ideas for inclusion in Anvil Extras.
 - [Amoni](https://github.com/anvilistas/amoni/) - A command line tool to assist with local development of Anvil apps.
-- [Anvil ORM](https://github.com/anvilistas/anvil-orm)
-- [Tabulator](https://github.com/s-cork/Tabulator)
-- [pyDALAnvilWorks](https://github.com/benlawraus/pyDALAnvilWorks)
-- [OpenQuestion](https://github.com/Alcampopiano/OpenQuestion)
+- [Tabulator](https://github.com/s-cork/Tabulator) - Anvil wrapper for the [JavaScript Tabulator library](https://tabulator.info/)
+- [pyDALAnvilWorks](https://github.com/benlawraus/pyDALAnvilWorks) - Utilities for running pytests and autocomplete editing locally
+- [OpenQuestion](https://github.com/Alcampopiano/OpenQuestion) - A survey and reporting platform: design surveys with a GUI or JSON, develop reports in a Jupyter-like environment
+- [trexjacket](https://github.com/trexjacket/trexjacket) - A Python wrapper for Tableau Extensions
 
 ## Social Media Communities
 - [Reddit](https://www.reddit.com/r/AnvilWorks/)
