@@ -22,6 +22,8 @@ This is a collection of **resources created by the Anvil community**, including 
 - [pyDALAnvilWorks](https://github.com/benlawraus/pyDALAnvilWorks) - Utilities for running pytests and autocomplete editing locally
 - [OpenQuestion](https://github.com/Alcampopiano/OpenQuestion) - A survey and reporting platform: design surveys with a GUI or JSON, develop reports in a Jupyter-like environment
 - [trexjacket](https://github.com/trexjacket/trexjacket) - A Python wrapper for Tableau Extensions
+- [Fluent Anvil](https://github.com/woernerm/fluent_anvil) - Anvil Wrapper for [Fluent](https://projectfluent.org/): A localization system
+for natural-sounding translations.
 
 ## Social Media Communities
 - [Reddit](https://www.reddit.com/r/AnvilWorks/)
