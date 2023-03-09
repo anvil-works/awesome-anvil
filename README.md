@@ -40,7 +40,6 @@ for natural-sounding translations.
 - [Twitter Analytics Dashboard](https://bas.codes/posts/python-anvil-twitter-stats)
 - [Fake News Creator Using Fast.ai](https://robertritz.com/deploy-a-fake-news-generator-to-the-web-with-anvil-a46611730a09)
 - [Learn the Python Anvil Framework by Nick Antonaccio](https://pythonanvil.com/)
-- [Create a Text Generation Web App with 100% Python - Udemy course](https://www.udemy.com/course/nlp-text-generation-python-web-app/)
 - [Build a Raspberry Pi Pico W Web App with Anvil](https://www.tomshardware.com/how-to/build-raspberry-pi-pico-w-web-app)
 - [Remote Control Your Raspberry Pi Camera from the Web](https://www.tomshardware.com/how-to/raspberry-pi-remote-control-camera-from-web)
 
@@ -57,4 +56,5 @@ for natural-sounding translations.
 
 ### Courses
 - [Talk Python Anvil course](https://training.talkpython.fm/courses/explore_anvil/anvil-web-apps-with-just-python) (free)
+- [Create a Text Generation Web App with 100% Python - Udemy course](https://www.udemy.com/course/nlp-text-generation-python-web-app/)
 
