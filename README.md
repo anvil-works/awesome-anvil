@@ -42,6 +42,7 @@ for natural-sounding translations.
 - [Learn the Python Anvil Framework by Nick Antonaccio](https://pythonanvil.com/)
 - [Create a Text Generation Web App with 100% Python - Udemy course](https://www.udemy.com/course/nlp-text-generation-python-web-app/)
 - [Build a Raspberry Pi Pico W Web App with Anvil](https://www.tomshardware.com/how-to/build-raspberry-pi-pico-w-web-app)
+- [Remote Control Your Raspberry Pi Camera from the Web](https://www.tomshardware.com/how-to/raspberry-pi-remote-control-camera-from-web)
 
 ### Video
 - [Build a Custom Google Map Web App with Anvil](https://youtu.be/uBF5ewOcPQE)
