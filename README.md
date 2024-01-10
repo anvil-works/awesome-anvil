@@ -53,6 +53,7 @@ for natural-sounding translations.
 - [Using the Remotive API to Build a List of Remote Jobs](https://youtu.be/vj0zW_pSZn0)
 - [Build a Poem Submission Web App](https://youtu.be/E8AXVoiQtkw)
 - [Anvil Uplink Tutorial](https://youtu.be/ebliOT-_ZEY)
+- [Companion videos to Learn the Python Anvil Framework by Nick Antonaccio](https://anvil.works/forum/t/some-videos-to-go-with-pythonanvil-com-tutorial/19728)
 
 ### Courses
 - [Talk Python Anvil course](https://training.talkpython.fm/courses/explore_anvil/anvil-web-apps-with-just-python) (free)
